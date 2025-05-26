@@ -67,7 +67,6 @@ main {
   background-repeat: no-repeat;
   min-height: 757px;
   padding: 165px 50px 0 50px;
-  overflow: hidden;
 }
 
 .overlay {
@@ -282,7 +281,6 @@ main {
   margin-top: 180px;
   padding-left: 50px;
   padding-right: 50px;
-  /* min-height: 180px; */
 }
 
 .footer__address {
